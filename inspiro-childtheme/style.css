@@ -1,0 +1,24 @@
+/*
+ Theme Name:   inspiro child theme
+ Theme URI:    http://nnm.dk/
+ Description:  inspiro child theme
+ Author:       Nikolaj Norman Madsen
+ Author URI:   http://nnm.dk
+ Template:     inspiro
+ Version:      1.2.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         Block Editor Styles, Blog, Custom Background, Custom Colors, Custom Header, Custom Logo, Custom Menu, E-Commerce, Editor Style, Featured Image Header, Featured Images, Flexible Header, Footer Widgets, Full Width Template, One Column, Portfolio, Post Formats, Right Sidebar, RTL Language Support, Sticky Post, Theme Options, Threaded Comments, Translation Ready, Two Columns, Wide Blocks
+ Text Domain:  inspirochildtheme
+*/
+
+/* Musen over link i menuen */
+ul:hover {
+  color: #961515;
+}
+
+/* Det link du er inde på i menuen */
+ul:active {
+  color: #961515;
+} 
+
